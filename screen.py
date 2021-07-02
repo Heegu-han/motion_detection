@@ -1,6 +1,6 @@
 import cv2
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(cv2.CAP_V4L2)
 # cap으로 영상을 불러옵니다.
 
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 500)
