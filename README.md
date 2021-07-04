@@ -86,3 +86,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ## motion 사용
 -----------------
 ### 1.motion 설치
+```
+sudo apt install motion
+```
+
