@@ -1,6 +1,6 @@
 # 움직임 감지 실습
 -----------------------
-##ovenCV
+## ovenCV
 ---------------
 ### 0. openCV가 설치되어있는지 확인한다.
 ```
@@ -81,3 +81,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 '4.5.1'
 >>> quit()
 ```
+
+------------------
+## motion 사용
+-----------------
+### 1.motion 설치
