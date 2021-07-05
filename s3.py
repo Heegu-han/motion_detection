@@ -6,16 +6,16 @@ import datetime
 
 
 def upload_file(name, file_path):
-    bucket = 'smarthome-2021'
+    bucket = 
 
-    access_key_id = 'AKIA6I7XS3WJAUPRZDQT'
-    access_secret_key = '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'
+    access_key_id = 
+    access_secret_key =
 
     s3_resource = boto3.resource(
-        's3',
+        's3'
         aws_access_key_id=access_key_id,
         aws_secret_access_key=access_secret_key,
-        region_name='ap-northeast-2',
+        region_name=
     )
 
     # get image file
